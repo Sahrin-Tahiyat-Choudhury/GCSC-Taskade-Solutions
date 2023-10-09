@@ -1,5 +1,4 @@
-##Q-1 solution 
-//Write a program to check whether the given number is prime or not.
+// Write a program to check whether the given number is prime or not.
 
 
 #include<stdio.h>
@@ -24,32 +23,4 @@ else
 {
 printf("%d is not a prime number",n);
 }
-}
-
-
-##Q-2 solution 
-//Write a program to print ASCII Value of a given character.
-
-
-#include<stdio.h>
-void main()
-{
-    char a;
-    printf("Enter a character");
-    scanf("%c",&a);
-    printf("ASCII value of %c is %d",a,a);
-}
-
-##Q-3 solution 
-//Write a program to calculate area and perimeter of a Rectangle.
-
-
-#include<stdio.h>
-void main()
-{ 
-int l,b,A,P;
-printf("Enter the values of length and breadth");
-scanf("%d %d",&l,&b);
-A = l*b; P = 2* (l+b);
-printf("Area of the rectangle = %d and Parameter of the rectangle = %d",A,P);
 }
