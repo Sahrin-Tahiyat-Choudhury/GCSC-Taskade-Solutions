@@ -1,3 +1,3 @@
 # GCSC-Taskade-Solutions
 Solutions of every tasks!!!
-Semester 1
+[Semester 1]
