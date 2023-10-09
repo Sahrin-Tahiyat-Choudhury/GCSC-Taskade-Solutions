@@ -28,6 +28,8 @@ printf("%d is not a prime number",n);
 
 
 ##Q-2 solution 
+//Write a program to print ASCII Value of a given character.
+
 
 #include<stdio.h>
 void main()
@@ -39,6 +41,8 @@ void main()
 }
 
 ##Q-3 solution 
+//Write a program to calculate area and perimeter of a Rectangle.
+
 
 #include<stdio.h>
 void main()
